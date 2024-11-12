@@ -1,4 +1,4 @@
-# README for Audio Processing and Feature Analysis
+# Audio Processing and Feature Analysis
 
 This project provides tools for analyzing audio files, extracting low-level features, and mapping these features to color representations. It includes three main components:
 
